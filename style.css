@@ -1,0 +1,17 @@
+body{
+  background-image: url(https://img5.goodfon.ru/wallpaper/nbig/1/8b/fon-zelenyi-tekstura-zernistost.jpg);
+  background-size:cover;
+}
+.header{
+  left:50%;
+  transform:translate(-50%);
+    position: absolute;
+}
+.wiki-pos{
+
+  text-align: center;
+  font-size: 35px;
+}
+.wiki-src{
+    color: black;
+}
